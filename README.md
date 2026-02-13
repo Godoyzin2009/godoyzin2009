@@ -1,4 +1,4 @@
-<h1 align="center">Boa boa pra nois familia, sejam bem vindo ai no meu github jae,
+<h1 align="center">Boa boa pra nois familia, sejam bem vindo ai no meu github jae
 meu nome é Guilherme Godoy,
 estou fazendo curso de Desenvolvimento de Sistemas,
 HTML e JavaScript são os componentes que mais gosto de programar,
