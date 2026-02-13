@@ -2,8 +2,7 @@
 meu nome é Guilherme Godoy,
 estou fazendo curso de Desenvolvimento de Sistemas,
 HTML e JavaScript são os componentes que mais gosto de programar,
-eu gosto de jogar futebol e andar de carro turbo,
-3º ano iremos trabalhar com: python, javaScript, HTML5 e CSS.</h1>
+meus Hobbys são jogar futebol e andar de carro turbo.</h1>
 
 ###
 
@@ -15,6 +14,8 @@ eu gosto de jogar futebol e andar de carro turbo,
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="60" alt="python logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://code.visualstudio.com/assets/branding/spacing.jpg" height="60" alt="python logo" />
 </div>
 
 ###
