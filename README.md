@@ -11,7 +11,10 @@ eu gosto de jogar futebol e andar de carro turbo,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net" height="60" alt="python logo" /> 
+  <img width="12" />
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="60" alt="python logo" />
 </div>
 
 ###
